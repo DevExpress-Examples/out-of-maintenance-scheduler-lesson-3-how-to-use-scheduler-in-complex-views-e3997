@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpressMvcSchedulerEditable/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcSchedulerEditable/Controllers/HomeController.vb))
+* [SchedulerSettingsHelper.cs](./CS/DevExpressMvcSchedulerEditable/Helpers/SchedulerSettingsHelper.cs) (VB: [SchedulerSettingsHelper.vb](./VB/DevExpressMvcSchedulerEditable/Helpers/SchedulerSettingsHelper.vb))
+* [Scheduling.cs](./CS/DevExpressMvcSchedulerEditable/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/DevExpressMvcSchedulerEditable/Models/Scheduling.vb))
+* [Index.cshtml](./CS/DevExpressMvcSchedulerEditable/Views/Home/Index.cshtml)
+* [SchedulerPartial.cshtml](./CS/DevExpressMvcSchedulerEditable/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # Scheduler - Lesson 3 - How to Use Scheduler in complex views
 
 
